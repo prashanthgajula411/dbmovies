@@ -1,0 +1,19 @@
+.item-con {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+.img {
+  height: 250px;
+  width: 300px;
+}
+.title {
+  font-family: "Roboto";
+  color: #fff;
+  font-size: 15px;
+}
+.rating {
+  font-family: "Roboto";
+  color: #fff;
+  font-size: 15px;
+}

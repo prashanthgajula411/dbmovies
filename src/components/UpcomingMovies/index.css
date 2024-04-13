@@ -1,0 +1,6 @@
+.movies-list-con {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: black;
+}
